@@ -1,0 +1,14 @@
+layout_spectrum: 0.265233
+color:
+  saturation: 0.264538
+  brandStrength: 0.1928758
+  lightness: 0.3651065
+  brandColors:
+    - '#5D5B5C'
+    - '#878080'
+    - '#1E201F'
+    - '#B3A5A3'
+    - '#FFFBD9'
+  rhythmicContrast: 0.8970172
+typography_spectrum: 0.1362007
+name: Theflow
